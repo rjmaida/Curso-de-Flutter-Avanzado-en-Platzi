@@ -26,22 +26,16 @@ class PlatziTripsCupertino extends StatelessWidget {
               return CupertinoTabView(
                 builder: (BuildContext context) => HomeTrips(),
               );
-              break;
             case 1:
               return CupertinoTabView(
                 builder: (BuildContext context) => SearchTrips(),
               );
-              break;
             case 2:
               return CupertinoTabView(
                 builder: (BuildContext context) {
-                  return BlocProvider(
-                    child: ProfileTrips(), 
-                    bloc: UserBloc()
-                    );
+                  return BlocProvider(child: ProfileTrips(), bloc: UserBloc());
                 },
               );
-              break;
             default:
               return Container();
           }

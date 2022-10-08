@@ -16,7 +16,6 @@ class SignInScreen extends StatefulWidget {
 class _SignInScreenState extends State<SignInScreen> {
   late UserBloc userBloc;
   late double screenWidth;
-  
 
   @override
   Widget build(BuildContext context) {
@@ -51,7 +50,7 @@ class _SignInScreenState extends State<SignInScreen> {
             children: [
               Flexible(
                   child: Container(
-                    width: screenWidth,
+                width: screenWidth,
                 child: Text(
                   "Welcome \n This is your travel App",
                   style: TextStyle(
