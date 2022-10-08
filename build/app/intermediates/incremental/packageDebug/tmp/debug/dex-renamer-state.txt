@@ -1,4 +1,19 @@
-#Sun Jul 17 17:41:03 CST 2022
-base.0=D\:\\Platzi\\Curso de flutter avanzado\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
+#Thu Sep 29 17:36:50 ART 2022
+path.4=1/classes.dex
+path.3=13/classes.dex
+path.2=0/classes.dex
+path.1=0/classes.dex
+path.5=classes2.dex
 path.0=classes.dex
+base.4=C\:\\Users\\rmaida\\Documents\\Proyectos\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.3=C\:\\Users\\rmaida\\Documents\\Proyectos\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.2=C\:\\Users\\rmaida\\Documents\\Proyectos\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Users\\rmaida\\Documents\\Proyectos\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.0=C\:\\Users\\rmaida\\Documents\\Proyectos\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+base.5=C\:\\Users\\rmaida\\Documents\\Proyectos\\Curso-de-Flutter-Avanzado-en-Platzi\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
